@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bb9f075cf40dd0e4f864411a01b160cb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - runner: {instanceID: 0}
+  - gestureInference: {instanceID: 0}
+  - heartEffect: {fileID: 5525429868079128874, guid: a31edec109250d24682c0a957903d736, type: 3}
+  - likeEffect: {fileID: 2477051593066708222, guid: 28055c7b8fbe9614691824413e2493b6, type: 3}
+  - dislikeEffect: {fileID: 948959206445348260, guid: b3771dcc051007847ba512f07572ca86, type: 3}
+  - confettiEffect: {fileID: 489179478151960219, guid: 0244d34203448ba43b6b8fe5e5b25cf2, type: 3}
+  - balloonPrefab: {fileID: 7171518463666405136, guid: 457e8124733e6d046988de29ca954fd5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
